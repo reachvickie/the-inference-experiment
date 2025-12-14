@@ -1,5 +1,5 @@
 # Inference-Induced Feedback: When ML Shapes Outcomes
-
+(README file is AI generated)
 ## Overview
 
 This project demonstrates a fundamental but often overlooked phenomenon in machine learning: **inference can influence outcomes without new data being collected**. Just like observing particles in the double-slit experiment changes their behavior, a model's predictions can subtly reshape the system it observes through feedback loops.
